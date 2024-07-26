@@ -91,10 +91,8 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Mandarin Chinese
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -130,4 +128,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the Caltech Noble Gas Lab. I use a combination of mass spectrometry, paleomagnetism, and orbital dynamics to help answer scientific questions. My research intersts include origin and evolution of terrestrial volatile elements, accretion of meteoritic objects, dynamic history of the Solar System, and their impacts on Earth.

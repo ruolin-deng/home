@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 邓若林
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ruolin Deng
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Ruolin (Ruo-Lin)
+last_name: Deng
 
 # Status emoji
 status:

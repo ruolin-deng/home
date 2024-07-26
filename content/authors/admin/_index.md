@@ -3,7 +3,7 @@
 title: 邓若林
 
 # Name pronunciation (optional)
-name_pronunciation: Ruolin Deng
+name_pronunciation: Deng Ruo-Lin
 
 # Full name (for SEO)
 first_name: Ruolin (Ruo-Lin)
